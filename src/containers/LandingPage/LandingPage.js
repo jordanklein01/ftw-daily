@@ -59,7 +59,7 @@ export const LandingPageComponent = props => {
         </LayoutWrapperTopbar>
         <LayoutWrapperMain>
           <div className={css.heroContainer}>
-            <SectionHero className={css.hero} history={history} location={location} />
+           <SectionHero className={css.hero} history={history} location={location} />
           </div>
           <ul className={css.sections}>
             <li className={css.section}>
