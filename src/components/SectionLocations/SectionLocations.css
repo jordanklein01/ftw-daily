@@ -52,8 +52,8 @@
 /* A wrapper for a responsive image that holds it's aspect ratio */
 .imageWrapper {
   position: relative;
-  width: 110%;
-  border-radius: 10px;
+  width: 100%;
+  border-radius: 0px;
   transition: var(--transitionStyleButton);
 
   &:hover {
